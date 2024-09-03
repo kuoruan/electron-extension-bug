@@ -3,7 +3,7 @@ import path from 'node:path'
 import electron from 'vite-plugin-electron/simple'
 import vue from '@vitejs/plugin-vue'
 
-const disable = true
+const disable = false
 
 // https://vitejs.dev/config/
 export default defineConfig({
